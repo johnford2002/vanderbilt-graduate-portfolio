@@ -46,6 +46,32 @@ As part of Vanderbilt’s CS-5262 Foundations of Machine Learning, I was able to
 
 ### Artifact - Contribute to Software Artifacts
 
+As part of Vanderbilt’s CS-5260 Artificial Intelligence, I was tasked with building an artificial agent, something I had never attempted previously. The project overview set the expectation:
+
+“The CS 5260 programming project is somewhat open-ended, allowing you to participate in the specification process, including design, implementation, and evaluation. The project requires integration of knowledge and skills learned in earlier CS courses and professional experiences, and you should ideally incorporate knowledge from other disciplines and areas of interest to you. 
+
+The goal of the project is to build a multi-method AI agent that plans and models trading and development (e.g., farming, manufacturing) decisions for a set of virtual countries, with each country possessing virtual resources and incentives for cooperating and competing with other countries. The project is split into two parts. In Part 1, you will create a well-defined backbone for an AI agent (a.k.a. virtual country) that simulates potential actions in a simulated world; however, the design specification for Part 1 still has gaps that you must define. In Part 2, you will build additional functionality into your AI agent from Part 1 as you see fit (e.g., for learning, game play, game definition, modeling war, reasoning under uncertainty, etc.).”
+
+With this project being so open-ended, it offered many opportunities to engage in discussion, sharing, and collaboration with both the professor and the class at large. At the outset of the project, I shared some of my early ideas for small utility code implementations and more complex future abstractions.
+
+- [Early Project Ideas - Shared to Piazza](./artifacts/knowledge-and-mastery/contribute-artifacts/01-CS5260-early-project-ideas.pdf)
+- [Simple File Reader - Code Snippet Shared to Piazza](./artifacts/knowledge-and-mastery/contribute-artifacts/02-CS5260-file-reading.pdf)
+- [Transform Template Parser - Code Snippet Shared to Piazza](./artifacts/knowledge-and-mastery/contribute-artifacts/03-CS5260-transform-template-parser.pdf)
+
+Once everyone had turned in Part 1 of the project, we were allowed to share our solutions in their entirety with the rest of the class. This was an interesting way to compare different approaches and potentially analyze faults in assumptions or implementations. I chose to make my code public, and I published it to the class.
+
+- [Part 1 Approach - Repository Shared to Piazza](https://github.com/johnford2002/CS-5260)
+
+In appropriately abstracting multiple pieces of the agent’s setup and processing, it allowed for quickly testing new inputs and parameters. This included the later addition of new resources and resource weights which were used to evaluate more complex scenarios during Part 2 of the project.
+
+In addition to producing design ideas and code artifacts, the project also required reporting out results concerning experiments conducted with the agent. This required a number of graphs, charts, and configuration samples to explain testing scenarios.
+
+- [Part 1 - Slide Deck](./artifacts/knowledge-and-mastery/contribute-artifacts/04-CS5260-project-part1.pdf)
+- [Part 2 - Slide Deck](./artifacts/knowledge-and-mastery/contribute-artifacts/05-CS5260-project-part2.pdf)
+
+The full repository is available publicly - https://github.com/johnford2002/CS-5260
+
+
 ## **COMMUNICATION SKILLS IN COMPUTER SCIENCE**
 ### Artifact - Demonstrate Communication Skills
 
