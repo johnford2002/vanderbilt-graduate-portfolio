@@ -6,10 +6,12 @@
 
 * **Name:** John Charles Ford III
 * **Program Start:** Fall 2022 - Full Time
-* **Principal Support:** Jessica Mendes Ford (spouse)
-* **Academic Advisor:** Courtney Humphrey (formerly)
+* **Graduation Date:** May 2024
 
 ## **CURRICULUM VITAE**
+
+![Latest Curriculum Vitae](./images/curriculum-vitae.png "Latest Curriculum Vitae")
+[Latest Curriculum Vitae](./curriculum-vitae.pdf)
 
 ## **KNOWLEDGE & MASTERY OF COMPUTER SCIENCE CONCEPTS**
 ### Artifact - Apply Computer Science Concepts
