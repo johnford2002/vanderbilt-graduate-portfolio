@@ -29,20 +29,20 @@ When I applied to Vanderbilt, I was bringing 10+ years of software industry expe
 
 ### Academic Achievements
 
-During my studies at Vanderbilt, I successfully maintained a full course load while also working full-time as a Senior Principal Software Engineer. At times, this meant spending all day on the computer for my day job and immediately switching into student-mode from the moment work finished until it was time for bed. Finishing the program is the culmination of all the hard work, and the results were worth it. I showed a high level of academic dedication and excellence, maintaining a 4.0 GPA throughout the program. 
+During my studies at Vanderbilt, I successfully maintained a full course load while also working full-time as a Senior Principal Software Engineer. At times, this meant spending all day on the computer for my day job and immediately switching into student-mode from the moment work finished until it was time for bed. Finishing the program is the culmination of all the hard work, and the results were worth it. I exhibited a high level of academic dedication and excellence, maintaining a 4.0 GPA throughout the program. 
 
 
 ## **CURRICULUM VITAE**
 
-![Latest Curriculum Vitae](./images/curriculum-vitae.png "Latest Curriculum Vitae")
-[Latest Curriculum Vitae](./curriculum-vitae.pdf)
+![Latest Curriculum Vitae](./images/curriculum-vitae/curriculum-vitae.png "Latest Curriculum Vitae")
+[Latest Curriculum Vitae](./artifacts/curriculum-vitae/curriculum-vitae.pdf)
 
 ## **KNOWLEDGE & MASTERY OF COMPUTER SCIENCE CONCEPTS**
 ### Artifact - Apply Computer Science Concepts
 
 As part of Vanderbilt’s CS-5262 Foundations of Machine Learning, I was able to combine a personal interest in local real estate with newly learned skills in analyzing data and creating ML models. Prior to taking this course, I had only ever consumed the outputs of models created by teams of analysts and data scientists. Learning about the work behind creating models and evaluating them offered a lot of insights into the different challenges facing my colleagues. 
   
-**[Real Estate Sales Data Exploration - Arapahoe County, Colorado (October 2022)](./real-estate-exploration.pdf)**
+**[Real Estate Sales Data Exploration - Arapahoe County, Colorado (October 2022)](./artifacts/knowledge-and-mastery/apply-cs-concepts/real-estate-exploration.pdf)**
 
 ### Artifact - Contribute to Software Artifacts
 
@@ -51,11 +51,11 @@ As part of Vanderbilt’s CS-5262 Foundations of Machine Learning, I was able to
 
 As part of Vanderbilt’s CS-8395 Quantum Computing, in addition to developing a deeper understanding of quantum computing, I also wanted to get a sense of the landscape of providers for cloud quantum computing. As an IT professional, I’m often asked to survey new software and technology offerings. This project  presented a concise summary of my findings in an easy-to-read article format complete with references.
   
-**[An Overview of the Cloud Quantum Computing Market (September 2022)](./cloud-quantum-computing-market.pdf)**
+**[An Overview of the Cloud Quantum Computing Market (September 2022)](./artifacts/communication-skills/cloud-quantum-computing-market.pdf)**
 
 ## **CONDUCT INDEPENDENT INQUIRY IN COMPUTER SCIENCE**
 ### Artifact - Conduct Independent Inquiry
 
 As the final project for Vanderbilt’s CS-8395 Digital Forensics, I chose to explore capabilities for conducting forensics investigations within a kubernetes cluster. While my academic and professional projects have often involved interacting with kubernetes, I have had little opportunity to work on the initialization, maintenance, and security aspects of a cluster. This project was a perfect alignment of goals, learn more about kubernetes and understand how forensics tooling adapts to new developments in distributed computing environments. 
   
-**[Kubernetes Forensics (December 2023)](./kubernetes-forensics.pdf)**
+**[Kubernetes Forensics (December 2023)](./artifacts/independent-inquiry/kubernetes-forensics.pdf)**
