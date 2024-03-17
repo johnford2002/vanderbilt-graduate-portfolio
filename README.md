@@ -66,8 +66,12 @@ In appropriately abstracting multiple pieces of the agent’s setup and processi
 
 In addition to producing design ideas and code artifacts, the project also required reporting out results concerning experiments conducted with the agent. This required a number of graphs, charts, and configuration samples to explain testing scenarios.
 
-- [Part 1 - Slide Deck](./artifacts/knowledge-and-mastery/contribute-artifacts/04-CS5260-project-part1.pdf)
-- [Part 2 - Slide Deck](./artifacts/knowledge-and-mastery/contribute-artifacts/05-CS5260-project-part2.pdf)
+- **Part 1**
+  - [Slide Deck](./artifacts/knowledge-and-mastery/contribute-artifacts/04-CS5260-project-part1.pdf)
+  - [Presentation Video](./videos/knowledge-and-mastery/contribute-artifacts/04-CS5260-project-part1.mp4)
+- **Part 2**
+  - [Slide Deck](./artifacts/knowledge-and-mastery/contribute-artifacts/05-CS5260-project-part2.pdf)
+  - [Presentation Video](./videos/knowledge-and-mastery/contribute-artifacts/05-CS5260-project-part2.mp4)
 
 The full repository is available publicly - https://github.com/johnford2002/CS-5260
 
