@@ -8,6 +8,20 @@
 * **Program Start:** Fall 2022 - Full Time
 * **Graduation Date:** May 2024
 
+### **Courses & Grades**
+| Course Title                           | Semester Taken | Instructor(s)            | Grade    |
+| -------------------------------------- | -------------- | ------------------------ | -------- |
+| CS5253 Parallel Func. Programming      | Fall ‘23       | Douglas C. Schmidt       | A        |
+| CS5254 Conc. Obj-Oriented Programming  | Summer ‘23     | Douglas C. Schmidt       | A        |
+| CS5260 Artificial Intelligence         | Spring ‘23     | Ronald William Hedgecock | A        |
+| CS5262 Foundations of Machine Learning | Fall ‘22       | Peng Zhang               | A        |
+| CS5279 Software Eng. Project           | Spring ‘24     | Yu Sun                   | Enrolled |
+| CS5288 Web System Architecture         | Summer ‘23     | Edward Klein             | A        |
+| CS6381 Distributed Systems             | Spring ‘23     | Aniruddha S. Gokhale     | A        |
+| CS8395 Quantum Computing               | Fall ‘22       | Charles Easttom          | A+       |
+| CS8395 Digital Forensics               | Fall ‘23       | Charles Easttom          | A        |
+| CS8395 Microservices                   | Spring ‘24     | Douglas C. Schmidt       | Enrolled |
+
 ## **CURRICULUM VITAE**
 
 ![Latest Curriculum Vitae](./images/curriculum-vitae.png "Latest Curriculum Vitae")
